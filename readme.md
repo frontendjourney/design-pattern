@@ -1,11 +1,9 @@
 # Learning Design-Pattern 🚀
 
-if you want to learn design-patterns as well with example and best-practice.
-let's see the repository .
+این ریپازیتوری نتایچ مطالعات تیم ما در حوزه دیزاین پترن هاست .
+تلاش ما این است که هر دیزاین پترن دارای توضیح فارسی خوب و مثال های عملی در تکنولوژی های زیر باشد
 
-## Document 🗒
-
-here is table of content and state of design -patterns
+> React , Typescript
 
 | Example in TS |  Example in React | Guide (En,Fa)  | Meaning                 |
 | ------------  | ----------------- | ------ | ----------------------- |
