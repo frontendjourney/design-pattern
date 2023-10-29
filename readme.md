@@ -5,28 +5,10 @@
 
 > React , Typescript
 
-| Example in TS |  Example in React | Guide (En,Fa)  | Meaning                    |
-| ------------  | ----------------- | ------ |----------------------------|
-| ❌           | ❌                | ❌❌     | SOLID Principles           |
-| ❌           | ❌                | ❌❌     | [ChainOfResponsibility](#) |
-| ❌           | ❌                | ❌❌     | command                    |
-| ❌           | ❌                | ❌❌     | observer                   |
-| ❌           | ❌                | ❌❌     | state                      |
-| ❌           | ❌                | ❌❌     | strategy                   |
-| ❌           | ❌                | ❌❌     | template-method            |
-| ❌           | ❌                | ❌❌     | abstract-factory           |
-| ❌           | ❌                | ❌❌     | builder                    |
-| ❌           | ❌                | ❌❌     | factory                    |
-| ❌           | ❌                | ❌❌     | singleton                  |
-| ❌           | ❌                | ❌❌     | adapter                    |
-| ❌           | ❌                | ❌❌     | bridge                     |
-| ❌           | ❌                | ❌❌     | composite                  |
-| ❌           | ❌                | ❌❌     | decorator                  |
-| ❌           | ❌                | ❌❌     | facade                     |
-| ❌           | ❌                | ❌❌     | fly-weight                 |
-| ❌           | ❌                | ❌❌     | proxy                      |
-| ❌           | ❌                | ❌❌     | prototype                  |
-| ❌           | ❌                | ❌❌     | memento                    |
-| ❌           | ❌                | ❌❌     | iterator                   |
-| ❌           | ❌                | ❌❌     | mediator                   |
-| ❌           | ❌                | ❌❌     | visitor                    |
+| Charts                                                                                                  |
+|---------------------------------------------------------------------------------------------------------|
+| [Starting Point](https://github.com/frontendjourney/design-pattern/tree/master/start-point/)            |
+| [Solid Principles](https://github.com/frontendjourney/design-pattern/tree/master/solid/)                |
+| [Creational Design Patterns](https://github.com/frontendjourney/design-pattern/tree/master/creational/) |
+| [Structural Design Patterns](https://github.com/frontendjourney/design-pattern/tree/master/structural/) |
+| [Behavioral Design Patterns](https://github.com/frontendjourney/design-pattern/tree/master/behavioral/) |
