@@ -1,4 +1,4 @@
-# Guides & TypeScript Example to Learning Design-Pattern 🚀
+# Learning Design-Pattern 🚀
 
 if you want to learn design-patterns as well with example and best-practice.
 let's see the repository .
