@@ -5,23 +5,28 @@
 
 > React , Typescript
 
-| Example in TS |  Example in React | Guide (En,Fa)  | Meaning                 |
-| ------------  | ----------------- | ------ | ----------------------- |
-| ❌           | ❌                | ❌❌     | SOLID Principles        |
+| Example in TS |  Example in React | Guide (En,Fa)  | Meaning                    |
+| ------------  | ----------------- | ------ |----------------------------|
+| ❌           | ❌                | ❌❌     | SOLID Principles           |
 | ❌           | ❌                | ❌❌     | [ChainOfResponsibility](#) |
-| ❌           | ❌                | ❌❌     | command                 |
-| ❌           | ❌                | ❌❌     | observer                |
-| ❌           | ❌                | ❌❌     | state                   |
-| ❌           | ❌                | ❌❌     | strategy                |
-| ❌           | ❌                | ❌❌     | template-method         |
-| ❌           | ❌                | ❌❌     | abstract-factory        |
-| ❌           | ❌                | ❌❌     | builder                 |
-| ❌           | ❌                | ❌❌     | factory                 |
-| ❌           | ❌                | ❌❌     | singleton               |
-| ❌           | ❌                | ❌❌     | adapter                 |
-| ❌           | ❌                | ❌❌     | bridge                  |
-| ❌           | ❌                | ❌❌     | composite               |
-| ❌           | ❌                | ❌❌     | decorator               |
-| ❌           | ❌                | ❌❌     | facade                  |
-| ❌           | ❌                | ❌❌     | fly-weight              |
-| ❌           | ❌                | ❌❌     | proxy                   |
+| ❌           | ❌                | ❌❌     | command                    |
+| ❌           | ❌                | ❌❌     | observer                   |
+| ❌           | ❌                | ❌❌     | state                      |
+| ❌           | ❌                | ❌❌     | strategy                   |
+| ❌           | ❌                | ❌❌     | template-method            |
+| ❌           | ❌                | ❌❌     | abstract-factory           |
+| ❌           | ❌                | ❌❌     | builder                    |
+| ❌           | ❌                | ❌❌     | factory                    |
+| ❌           | ❌                | ❌❌     | singleton                  |
+| ❌           | ❌                | ❌❌     | adapter                    |
+| ❌           | ❌                | ❌❌     | bridge                     |
+| ❌           | ❌                | ❌❌     | composite                  |
+| ❌           | ❌                | ❌❌     | decorator                  |
+| ❌           | ❌                | ❌❌     | facade                     |
+| ❌           | ❌                | ❌❌     | fly-weight                 |
+| ❌           | ❌                | ❌❌     | proxy                      |
+| ❌           | ❌                | ❌❌     | prototype                  |
+| ❌           | ❌                | ❌❌     | memento                    |
+| ❌           | ❌                | ❌❌     | iterator                   |
+| ❌           | ❌                | ❌❌     | mediator                   |
+| ❌           | ❌                | ❌❌     | visitor                    |
