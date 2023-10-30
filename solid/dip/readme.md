@@ -24,10 +24,15 @@ class TaskManager {
     }
     
     completeTask(task: Task) {
-        task.complete();
-        const index = this.tasks.indexOf(task);
-        if (index !== -1) {
-        this.tasks.splice(index, 1);
+       task.complete();
+       const index = this.tasks.indexOf(task);
+       if (index !== -1) {
+         this.tasks.splice(index, 1);
+       }
+    }
+
+    completeTasks() {
+      this.tasks.forEach(task => task.complete())
     }
 }
 
@@ -56,3 +61,23 @@ class DesignTask implements Task {
 }
 
 ```
+
+در نهایت میتونیم به این شکل از کد استفاده کنیم :
+
+```
+ const taskManager = new TaskManager();
+ taskManager.addTask(
+   new CodingTask(),
+ );
+ taskManager.addTask(
+   new DesignTask()
+ );
+ 
+ taskManager.completeTasks()
+```
+
+اما حواستون باشه , اون چیزی که الان اسمش رو گذاشتیم Dependency Inversion شیوه ای هستش که استفاده کردیم که بتونیم به کلاس TaskManager تزریق کنیم انواع Task رو .
+
+
+##امیدوارم از این مطلب لذت برده باشین , اگر نیاز به تغییر داشت یا پیشنهادی برای این متن داشتین از طریق لینک زیر برامون Issue جدید تولید کنید .
+https://github.com/frontendjourney/design-pattern/issues/new/choose
