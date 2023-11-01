@@ -72,7 +72,7 @@ class DriverSingleton {
 
 
 //change current driver status
-DriverSingleton.getInstance().toggleDriverStatus(false)
+DriverSingleton.getInstance().toggleDriverStatus(true)
 //change driver 
 DriverSingleton.getInstance().changeDriver("narges")
 
