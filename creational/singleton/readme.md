@@ -95,7 +95,7 @@ class DriverSingleton {
     .
     .
     .
-}
+} 
 
 //error : Constructor of class 'DriverSingleton' is private and only accessible within the class declaration.
 const createNewDriver=new DriverSingleton()
